@@ -57,5 +57,5 @@ const validateCred = arr => {
 
 console.log(validateCred(valid1))
 console.log(validateCred(invalid1))
-console.log(validateCred(mystery2))
+console.log(validateCred(mystery3))
 
